@@ -83,7 +83,7 @@ The app is built using **Python, Flask, and Dash** on top of **Yahoo Finance** d
 ### 📂 Project Structure (High Level)
 
 ```text
-SAT_StockAnaysisTool/
+SAT_StockAnalysisTool/
 ├── SAT.py                 # Main Flask + Dash application
 ├── StockDataManager.py    # Local sector/category/metadata manager
 ├── ISIN.py                # (Optional) Utilities for ISIN handling
